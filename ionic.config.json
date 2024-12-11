@@ -1,0 +1,7 @@
+{
+  "name": "rhprojects",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
